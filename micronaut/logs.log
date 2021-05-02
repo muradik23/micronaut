@@ -1,0 +1,4 @@
+May 02, 2021 8:45:36 PM edu.ada.micronaut.service.impl.YahooFinanceServiceImpl getFinancialData
+INFO: 2021-05-02T16:45:36.716858Z: User requested [GOOGL]
+May 02, 2021 8:45:47 PM edu.ada.micronaut.service.impl.YahooFinanceServiceImpl getFinancialData
+INFO: 2021-05-02T16:45:47.244913Z: User requested [GOOGL, AAPL]
